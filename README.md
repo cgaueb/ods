@@ -9,7 +9,7 @@ Some additional quick links
 - [Author version](https://lotus.aueb.gr/content/CGI2023%20-%20Opening%20Design%20using%20Bayesian%20Optimization_preprint.pdf) of the paper
 - [Project page](https://lotus.aueb.gr/)
 
-The method and system where developed on Unreal Engine 5
+The method and system were developed on Unreal Engine 5
 ![Image](Images/teaser.jpg)
 
 ### Table of Contents
