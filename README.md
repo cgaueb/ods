@@ -5,6 +5,11 @@ Opening Design using Bayesian Optimization
 
 This repository contains the source code that is part of the supplemental material for the *[Paper: Opening Design using Bayesian Optimization](https://www.sciencedirect.com/science/article/pii/S2096579623000256?via%3Dihub)* that was presented in CGI 2023. The contents are:
 
+- Source code
+- Unreal Engine project file
+- 3rd Party pre-compiled libraries
+- Test scenes
+
 Some additional quick links
 - [Author version](https://lotus.aueb.gr/content/CGI2023%20-%20Opening%20Design%20using%20Bayesian%20Optimization_preprint.pdf) of the paper
 - [Project page](https://lotus.aueb.gr/)
