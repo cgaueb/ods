@@ -50,6 +50,6 @@ keywords = {Inverse Geometry, Lighting Simulation, Scene Synthesis},
 ## Acknowledgments
 The project uses a slightly modified version of the [BayesOpt](https://github.com/rmcantin/bayesopt) for Bayesian Optimization.
 
-The research project was supported by the [Hellenic Foundation for Research and Innovation (H.F.R.I.)](https://www.elidek.gr/) under the “3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers”(Project Number: 7310)
+The research project was supported by the [Hellenic Foundation for Research and Innovation (H.F.R.I.)](https://www.elidek.gr/) under the “3rd Call for H.F.R.I. Research Projects to support Post-Doctoral Researchers”(Project Number: 7310, [LOTUS](https://lotus.aueb.gr))
 
 ![Image](Images/elidek.jpg)
